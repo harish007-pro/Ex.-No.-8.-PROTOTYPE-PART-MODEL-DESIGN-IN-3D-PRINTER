@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 30/10/2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -19,7 +19,6 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
@@ -47,8 +46,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![exp3op1](https://github.com/user-attachments/assets/de346fa9-2210-4690-bbd1-00c9e35b561d)
+
+![exp3op2](https://github.com/user-attachments/assets/fdfea0a4-7ae1-4fad-8539-dec5c5cbc2f4)
+
+
+
+### Name: HARISH G
+### Register Number: 212224110020
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
